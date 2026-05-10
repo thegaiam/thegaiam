@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Jane, a software developer based in Berlin.
+I'm theGAIAM, The Generative AI Association of Malaysia.
 
-- 🔭 Currently working on a side project in Rust
-- 🌱 Learning distributed systems
-- 📫 Reach me at jane@example.com
+- 🔭 Currently in Malaysia
+- 🌱 Learning Generative AI
+- 📫 Reach me at admin@thegaiam.org
