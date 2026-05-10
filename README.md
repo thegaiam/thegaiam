@@ -1,4 +1,4 @@
-## Hi there, we're theGAIAM 👋
+## Hi there, we're GAIAM 👋
 
 We are **The Generative AI Association of Malaysia** — a community-driven organization dedicated to advancing the understanding, adoption, and responsible use of Generative AI across Malaysia.
 
